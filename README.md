@@ -1,6 +1,6 @@
 # SudokuSolver
 
-This is a simple sudoku solver uses [Z3](https://github.com/Z3Prover/z3) library. It reads input from a file with the name `input.txt` in the same directory as the program, and outputs the result to a file with the name `output.txt` in the same directory as `input.txt`. 
+This is a simple sudoku solver uses Java API of [Z3](https://github.com/Z3Prover/z3). It reads input from a file with the name `input.txt` in the same directory as the program, and outputs the result to a file with the name `output.txt` in the same directory as `input.txt`. 
 
 Example:
 Suppose `input.txt` contains following 9 lines 
